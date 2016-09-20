@@ -19,7 +19,7 @@ npm run typings install
 
 
 
-if you get a permissions error add sudo.
+If the install fails with a permissions error add sudo.
 
 
 sudo npm install
