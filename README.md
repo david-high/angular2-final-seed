@@ -1,4 +1,11 @@
 
+Angular 2 Final Seed.
+
+This Boilerplate angular 2 setup is bassed on the angular.io quickstart.
+
+The following instructions assume you already have node, npm, and typscript installed.
+
+
 Clone or download files from
 
 https://github.com/david-high/angular2-final-seed.git
